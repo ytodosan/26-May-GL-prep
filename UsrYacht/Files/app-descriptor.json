@@ -1,0 +1,19 @@
+{
+  "Name": "Yacht",
+  "Description": "",
+  "Maintainer": "Customer",
+  "Icon": "PHN2ZyB3aWR0aD0iMzMiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMyAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTI0LjU3NzMgNi45OTgwNUg4LjU3NzMxQzcuMTA0NTUgNi45OTgwNSA1LjkxMDY0IDguMTkyNDggNS45MTA2NCA5LjY2NTg4VjIwLjAwNkM1LjkxMDY0IDIxLjQ3OTQgNy4xMDQ1NSAyMi42NzM4IDguNTc3MzEgMjIuNjczOEgxMC45NjYxVjI2LjEwNzJDMTAuOTY2MSAyNi44MzA1IDExLjc4MzIgMjcuMjUxMiAxMi4zNzE1IDI2LjgzMDlMMTguMTkwNSAyMi42NzM4SDI0LjU3NzNDMjYuMDUwMSAyMi42NzM4IDI3LjI0NCAyMS40Nzk0IDI3LjI0NCAyMC4wMDZWOS42NjU4OEMyNy4yNDQgOC4xOTI0OCAyNi4wNTAxIDYuOTk4MDUgMjQuNTc3MyA2Ljk5ODA1WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==",
+  "IconName": "SectionIcon_Chats.svg",
+  "Color": "#20A959",
+  "Version": "1.0.0",
+  "RequiredPlatformVersion": "8.3.4",
+  "MarketplaceLink": "",
+  "DependsOn": [],
+  "Code": "UsrYacht",
+  "Packages": [
+    {
+      "UId": "ecd71bde-d888-4c96-87b0-59c3e14dc30b",
+      "Name": "UsrYacht"
+    }
+  ]
+}
